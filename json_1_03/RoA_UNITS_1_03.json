@@ -1,0 +1,194 @@
+{
+  "AFA": {
+    "enUS": "Alonsus Faol",
+    "koKR": "알론서스 파올"
+  },
+  "ALO": {
+    "enUS": "Anduin Lothar",
+    "koKR": "안두인 로서"
+  },
+  "ANT": {
+    "enUS": "Antonidas",
+    "koKR": "안토니다스"
+  },
+  "APE": {
+    "enUS": "Aiden Perenolde",
+    "koKR": "에이든 페레놀드"
+  },
+  "APR": {
+    "enUS": "Admiral Proudmoore",
+    "koKR": "제독 프라우드무어"
+  },
+  "ART": {
+    "enUS": "Arthas",
+    "koKR": "아서스"
+  },
+  "DPR": {
+    "enUS": "Derek Proudmoore",
+    "koKR": "데렉 프라우드무어"
+  },
+  "DRE": {
+    "enUS": "Drenden",
+    "koKR": "드렌덴"
+  },
+  "DRO": {
+    "enUS": "Drunk Orc",
+    "koKR": "술 취한 오크"
+  },
+  "DTR": {
+    "enUS": "Danath Trollbane",
+    "koKR": "다나스 트롤베인"
+  },
+  "ECA": {
+    "enUS": "Elven Captain",
+    "koKR": "엘프 대장"
+  },
+  "GGR": {
+    "enUS": "Genn Graymane",
+    "koKR": "겐 그레이메인"
+  },
+  "GRU": {
+    "enUS": "Grunt",
+    "koKR": "그런트"
+  },
+  "GTD": {
+    "enUS": "Gavinrad the Dire",
+    "koKR": "맹위의 가빈라드"
+  },
+  "KGU": {
+    "enUS": "Kings Guard",
+    "koKR": "왕실 경비병"
+  },
+  "KHA": {
+    "enUS": "Khadgar",
+    "koKR": "카드가"
+  },
+  "KOG": {
+    "enUS": "Korkron Orge Guard",
+    "koKR": "코르크론 오우거 경비병"
+  },
+  "KRA": {
+    "enUS": "Krasus",
+    "koKR": "크라서스"
+  },
+  "KSU": {
+    "enUS": "Kael'thas Sunstrider",
+    "koKR": "캘타스 선스트라이더"
+  },
+  "KTH": {
+    "enUS": "Kel’Thuzad",
+    "koKR": "켈투자드"
+  },
+  "KWI": {
+    "enUS": "Kurdran Wildhammer",
+    "koKR": "쿠르드란 와일드해머"
+  },
+  "LDC": {
+    "enUS": "Lord Darius Crowley",
+    "koKR": "다리우스 크롤리 경"
+  },
+  "MAA": {
+    "enUS": "Man at Arms",
+    "koKR": "무장병"
+  },
+  "MAM": {
+    "enUS": "Mayor Marcus",
+    "koKR": "시장 마커스"
+  },
+  "MBL": {
+    "enUS": "Maim Blackhand",
+    "koKR": "마임 블랙핸드"
+  },
+  "MBR": {
+    "enUS": "Muradin Bronzebeard",
+    "koKR": "무라딘 브론즈비어드"
+  },
+  "MER": {
+    "enUS": "Meryn",
+    "koKR": "메린"
+  },
+  "MOD": {
+    "enUS": "Modera",
+    "koKR": "모데라"
+  },
+  "MTS": {
+    "enUS": "Milan the Scribe",
+    "koKR": "서기관 밀란"
+  },
+  "NTP": {
+    "enUS": "Nobbel the Pious",
+    "koKR": "경건한 노벨"
+  },
+  "OCA": {
+    "enUS": "Orc Captain",
+    "koKR": "오크 대장"
+  },
+  "ODO": {
+    "enUS": "Orgrim Doomhammer",
+    "koKR": "오그림 둠해머"
+  },
+  "OPI": {
+    "enUS": "Orc Pirate",
+    "koKR": "오크 해적"
+  },
+  "PEO": {
+    "enUS": "Peon",
+    "koKR": "일꾼"
+  },
+  "PRI": {
+    "enUS": "Prisoner",
+    "koKR": "포로"
+  },
+  "RBL": {
+    "enUS": "Dal’Rend Blackhand",
+    "koKR": "달렌드 블랙핸드"
+  },
+  "RDE": {
+    "enUS": "Regional Defender",
+    "koKR": "지역 수비군"
+  },
+  "RET": {
+    "enUS": "Retera",
+    "koKR": "레테라"
+  },
+  "TGO": {
+    "enUS": "Teron Gorefiend",
+    "koKR": "테론 고어핀드"
+  },
+  "THA": {
+    "enUS": "Tharbek",
+    "koKR": "타벡"
+  },
+  "TME": {
+    "enUS": "Terenas Menethil II",
+    "koKR": "테레나스 메네실 2세"
+  },
+  "TTR": {
+    "enUS": "Thoras Trollbane",
+    "koKR": "토라스 트롤베인"
+  },
+  "TUR": {
+    "enUS": "Turalyon",
+    "koKR": "투랄리온"
+  },
+  "USC": {
+    "enUS": "Utok Scratcher",
+    "koKR": "우톡 스크래처"
+  },
+  "UTL": {
+    "enUS": "Uther Lightbringer",
+    "koKR": "빛의 수호자 우서"
+  },
+  "VWR": {
+    "enUS": "Varian Wrynn",
+    "koKR": "바리안 린"
+  },
+  "WIL": {
+    "enUS": "Wilhelm",
+    "koKR": "빌헬름"
+  },
+  "ZTW": {
+    "enUS": "Zuluhed the Whacked",
+    "koKR": "늙은 줄루헤드"
+  }
+}

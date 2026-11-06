@@ -1,0 +1,919 @@
+{
+  "RoA_A01_M02_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HERO|r\nDanath - captain of Anduin Lothar and nephew of the king Thoras Trollbane. Excellent warrior that can bash enemies with his shield and boost friendly units attack rate with his shouts.",
+    "koKR": "|cff8080ff새로운 영웅|r\n다나스 트롤베인 - 안두인 로서의 부관이자 토라스 트롤베인 국왕의 조카입니다. 방패로 적을 강타하고, 함성을 통해 아군 유닛의 공격 속도를 높일 수 있는 뛰어난 전사입니다."
+  },
+  "RoA_A01_M02_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW SEMI HERO|r\nGavinrad - is one of the Azerothien veterans, who became the paladin of the Silver Hand order. Able to restore friendly units health with \"Healing Word\" and boost their melee attack with \"Vengeance Aura\".",
+    "koKR": "|cff8080ff새로운 준영웅|r\n가빈라드 - 아제로스 왕국의 역전용사 중 한 명으로, 은빛 성기사단의 성기사가 되었습니다.  치유의 기도로 아군 유닛의 체력을 회복시키고, 복수의 오라로 아군 유닛의 근접 공격력을 강화할 수 있습니다."
+  },
+  "RoA_A01_M02_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Help the Villagers",
+    "koKR": "주민 돕기"
+  },
+  "RoA_A01_M02_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Southshore’s surviving citizens are still in danger. You must clear the nearby villages of orcish raiders to ensure their safety.",
+    "koKR": "남녘해안의 생존자들은 여전히 위험에 처해 있습니다. 주민들의 안전을 위해 인근 마을의 오크 약탈자들을 몰아내야 합니다."
+  },
+  "RoA_A01_M02_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nHelp the Villagers\n - Retake 7 Farms\n - Danath must survive",
+    "koKR": "|cffffcc00주 퀘스트|r\n주민 돕기\n  - 농장 7곳을 탈환해야 합니다.\n  - 다나스가 생존해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nHelp the Villagers",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n주민 돕기"
+  },
+  "RoA_A01_M02_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms",
+    "koKR": "농장 7곳을 탈환해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive",
+    "koKR": "다나스가 생존해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (0 / 7)",
+    "koKR": "농장 7곳을 탈환해야 합니다. (0 / 7)"
+  },
+  "RoA_A01_M02_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (1 / 7)",
+    "koKR": "농장 7곳을 탈환해야 합니다. (1 / 7)"
+  },
+  "RoA_A01_M02_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (2 / 7)",
+    "koKR": "농장 7곳을 탈환해야 합니다. (2 / 7)"
+  },
+  "RoA_A01_M02_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (3 / 7)",
+    "koKR": "농장 7곳을 탈환해야 합니다. (3 / 7)"
+  },
+  "RoA_A01_M02_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (4 / 7)",
+    "koKR": "농장 7곳을 탈환해야 합니다. (4 / 7)"
+  },
+  "RoA_A01_M02_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (5 / 7)",
+    "koKR": "농장 7곳을 탈환해야 합니다. (5 / 7)"
+  },
+  "RoA_A01_M02_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (6 / 7)",
+    "koKR": "농장 7곳을 탈환해야 합니다. (6 / 7)"
+  },
+  "RoA_A01_M02_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nHelp the Villagers\n - |cffff0000Danath must Survive (Failed)|r",
+    "koKR": "|cffffcc00주 퀘스트 실패|r\n주민 돕기\n  - |cffff0000다나스가 생존해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M02_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Southshore",
+    "koKR": "남녘해안"
+  },
+  "RoA_A01_M02_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The town lies in ruins after the orcish onslaught. Restore it to serve as a stronghold for Anduin Lothar’s army, and prepare the land for the coming battles.",
+    "koKR": "오크의 맹공으로 마을이 폐허가 되었습니다. 마을을 재건하여 안두인 로서의 군대가 주둔할 거점을 마련하고, 다가올 전투에 대비하십시오."
+  },
+  "RoA_A01_M02_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nSouthshore\n - Repair Town Hall\n - Repair Barracks",
+    "koKR": "|cffffcc00주 퀘스트|r\n남녘해안\n  - 마을 회관을 수리해야 합니다.\n  - 병영을 수리해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nSouthshore",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n남녘해안"
+  },
+  "RoA_A01_M02_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nSouthshore\n - |cff808080Repair Town Hall (Completed)|r\n - Repair Barracks",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n남녘해안\n  - |cff808080마을 회관을 수리해야 합니다. (완료)|r\n  - 병영을 수리해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nSouthshore\n - Repair Town Hall\n - |cff808080Repair Barracks (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n남녘해안\n  - 마을 회관을 수리해야 합니다.\n  - |cff808080병영을 수리해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M02_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair Town Hall",
+    "koKR": "마을 회관을 수리해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair Barracks",
+    "koKR": "병영을 수리해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Reinforce the Navy",
+    "koKR": "해군 증강"
+  },
+  "RoA_A01_M02_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The elves’ brethren remain in enemy hands, and only a stronger fleet can bring them to safety. Expand your navy and prepare to strike across the waters.",
+    "koKR": "엘프들이 적에게 붙잡혀 있습니다. 그들을 안전하게 구출하려면 더 강력한 함대가 필요합니다. 해군을 증강하고 강 건너의 적을 공격할 준비를 하십시오."
+  },
+  "RoA_A01_M02_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Lumber Mill",
+    "koKR": "제재소를 건설해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Shipyard",
+    "koKR": "조선소 건설"
+  },
+  "RoA_A01_M02_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Oil Rig",
+    "koKR": "석유 굴착대를 건설해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy orc shipyard",
+    "koKR": "오크 조선소를 파괴해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy enemy ships",
+    "koKR": "적 함선을 파괴해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nReinforce the Navy\n - Build Lumber Mill\n - Build Shipyard\n - Build Oil Rig\n - Destroy orc shipyard\n - Destroy enemy ships",
+    "koKR": "|cffffcc00주 퀘스트|r\n해군 증강\n  - 제재소를 건설해야 합니다.\n  - 조선소를 건설해야 합니다.\n  - 석유 굴착대를 건설해야 합니다.\n  - 오크 조선소를 파괴해야 합니다.\n  - 적 함선을 파괴해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nReinforce the Navy",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n해군 증강"
+  },
+  "RoA_A01_M02_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Shipyard (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n해군 증강\n  - |cff808080조선소를 건설해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M02_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Lumber Mill (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n해군 증강\n  - |cff808080제재소를 건설해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M02_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Oil Rig (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n해군 증강\n  - |cff808080석유 굴착대를 건설해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M02_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Destroy enemy ships (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n해군 증강\n  - |cff808080적 함선을 파괴해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M02_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Destroy orc shipyard (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n해군 증강\n  - |cff808080오크 조선소를 파괴해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M02_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dangerous River",
+    "koKR": "위험한 강"
+  },
+  "RoA_A01_M02_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Sail north toward Tarren Mill, but beware! The river may be patrolled by the Horde navy. Proceed with caution and keep your fleet ready for battle.",
+    "koKR": "타렌 제분소를 향해 북쪽으로 항해하십시오. 다만 호드 해군이 강을 순찰하고 있을 수 있으니 주의해야 합니다. 신중하게 전진하며 언제든 전투에 나설 수 있도록 함대를 준비시키십시오."
+  },
+  "RoA_A01_M02_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Reach the circle of Power.",
+    "koKR": "힘의 마법진에 도달해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "At least 1 ship must survive.",
+    "koKR": "적어도 함선 1척이 생존해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDangerous River\n - Reach the circle of Power\n - At least 1 ship must survive",
+    "koKR": "|cffffcc00주 퀘스트|r\n위험한 강\n  - 힘의 마법진에 도달해야 합니다.\n  - 적어도 함선 1척이 생존해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDangerous River",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n위험한 강"
+  },
+  "RoA_A01_M02_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDangerous River\n - |cffff0000At least 1 ship should survive (Failed)|r",
+    "koKR": "|cffffcc00주 퀘스트 실패|r\n위험한 강\n  - |cffff0000적어도 함선 1척이 생존해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M02_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Elven Allies",
+    "koKR": "엘프 동맹군"
+  },
+  "RoA_A01_M02_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Elven captives are held in a camp at Tarren Mill. Break their chains and bring them to safety, their aid will be invaluable in the battles to come.",
+    "koKR": "엘프 포로들이 타렌 제분소의 수용소에 갇혀 있습니다. 그들을 풀어 주고 안전한 곳으로 데려오십시오. 다가올 전투에서 큰 힘이 되어 줄 것입니다."
+  },
+  "RoA_A01_M02_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill all Prison camp Guards",
+    "koKR": "포로수용소 경비병을 모두 처치해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must Survive.",
+    "koKR": "다나스가 생존해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nElven Allies\n - Kill all Prison camp Guards\n - Danath must Survive",
+    "koKR": "|cffffcc00주 퀘스트|r\n엘프 동맹군\n  - 포로수용소 경비병을 모두 처치해야 합니다.\n  - 다나스가 생존해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nElven Allies",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n엘프 동맹군"
+  },
+  "RoA_A01_M02_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nElven Allies\n - |cffff0000Danath must Survive (Failed)|r",
+    "koKR": "|cffffcc00주 퀘스트 실패|r\n엘프 동맹군\n  - |cffff0000다나스가 생존해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M02_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nElven Allies\n - Enter the Circle of Power and free Milan the Scribe",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n엘프 동맹군\n  - 힘의 마법진에 들어가 서기관 밀란을 구출해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Enter the Circle of Power and free Milan the Scribe.",
+    "koKR": "힘의 마법진에 들어가 서기관 밀란을 구출해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "koKR": "|cffffcc00임무 실패|r"
+  },
+  "RoA_A01_M02_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prison Camps",
+    "koKR": "포로수용소"
+  },
+  "RoA_A01_M02_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Local villagers who survived the orcish assault have been imprisoned for slave labor. Free them from their chains, and they will join your cause.",
+    "koKR": "오크의 습격에서 살아남은 주민들이 붙잡혀 노예로 부려지고 있습니다. 이들을 풀어 주면 아군에 합류할 것입니다."
+  },
+  "RoA_A01_M02_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (0/4 freed)",
+    "koKR": "포로 4명을 구출해야 합니다. (0/4 구출)"
+  },
+  "RoA_A01_M02_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nPrison Camps\n - Free 4 prisoners",
+    "koKR": "|cffffcc00선택 퀘스트|r\n포로수용소\n  - 포로 4명을 구출해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nPrison Camps",
+    "koKR": "|cffffcc00선택 퀘스트 완료|r\n포로수용소"
+  },
+  "RoA_A01_M02_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners",
+    "koKR": "포로 4명을 구출해야 합니다."
+  },
+  "RoA_A01_M02_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (3/4 freed)",
+    "koKR": "포로 4명을 구출해야 합니다. (3/4 구출)"
+  },
+  "RoA_A01_M02_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (2/4 freed)",
+    "koKR": "포로 4명을 구출해야 합니다. (2/4 구출)"
+  },
+  "RoA_A01_M02_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (1/4 freed)",
+    "koKR": "포로 4명을 구출해야 합니다. (1/4 구출)"
+  },
+  "RoA_A01_M02_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Quest Objectives",
+    "koKR": "퀘스트 목표"
+  },
+  "RoA_A01_M02_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Farms left to retake:",
+    "koKR": "남은 농장:"
+  },
+  "RoA_A01_M02_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Troll Destroyers left:",
+    "koKR": "남은 트롤 구축함:"
+  },
+  "RoA_A01_M02_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Lumber Mill - The Elves offered their superior skills in service to the Alliance, providing more efficient means for processing lumber.",
+    "koKR": "|cffffcc00새로운 건물 사용 가능|r\n엘프 제재소 - 엘프들은 얼라이언스를 위해 자신들의 뛰어난 목재 가공 기술을 제공했습니다."
+  },
+  "RoA_A01_M02_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Archers -  descendants of the elder race of Highbornes, these sylvan woodsmen are unmatched in their use of the bow.",
+    "koKR": "|cffffcc00새로운 유닛 사용 가능|r\n엘프 궁수 - 고대 명가의 후예인 이 숲의 사냥꾼들은 마법 같은 궁술 실력을 자랑합니다."
+  },
+  "RoA_A01_M02_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nShipyards are primarily responsible for constructing various warships within the Alliance's naval forces. They also serve as depots for harvested oil.",
+    "koKR": "|cffffcc00새로운 건물 사용 가능|r\n조선소 - 조선소는 얼라이언스 해군의 다양한 군함을 건조하는 일을 주로 담당합니다. 또한 채굴한 석유를 저장하는 창고 역할도 합니다."
+  },
+  "RoA_A01_M02_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Destroyers are powerful warships from the fleets of Quel'thalas. Crewed with highly-skilled Elven seafarers, these swift-sailing vessels are prepared to engage the enemy wherever they may be found.",
+    "koKR": "|cffffcc00새로운 유닛 사용 가능|r\n엘프 구축함 - 엘프 구축함은 쿠엘탈라스 함대의 강력한 군함입니다. 숙련된 엘프 선원들이 탑승한 이 신속한 함선들은 적이 어디에 있든 맞서 싸울 준비가 되어 있습니다."
+  },
+  "RoA_A01_M02_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prisoners left:",
+    "koKR": "남은 포로:"
+  },
+  "RoA_A01_M02_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Alterac",
+    "koKR": "알터랙"
+  },
+  "RoA_A01_M02_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Blackrock Clan",
+    "koKR": "검은바위 부족"
+  },
+  "RoA_A01_M02_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Lordaeron",
+    "koKR": "로데론"
+  },
+  "RoA_A01_M02_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Stromgarde",
+    "koKR": "스트롬가드"
+  },
+  "RoA_A01_M02_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Rangers of Quel’Thalas",
+    "koKR": "쿠엘탈라스 순찰대"
+  },
+  "RoA_A01_M02_SCRN_014": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Horde",
+    "koKR": "호드"
+  },
+  "RoA_A01_M02_SCRN_015": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Alliance",
+    "koKR": "얼라이언스"
+  },
+  "RoA_A01_M02_SCRN_016": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Captain of Blackrock Clan",
+    "koKR": "검은바위 부족 대장"
+  },
+  "RoA_A01_M02_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "The Horde was here… everywhere these bastards go, they spread death and destruction… I should’ve been in Stromgarde when they laid siege to it…and my father would’ve...",
+    "koKR": "호드가 다녀갔군... 이 망할 놈들은 가는 곳마다 죽음과 파괴를 몰고 다니는군... 놈들이 스트롬가드를 포위했을 때 나도 그곳에 있었어야 했는데... 그랬다면 아버지도..."
+  },
+  "RoA_A01_M02_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Captain, we need to search for supplies, our men are running low on food and water.",
+    "koKR": "대장님, 보급품을 찾아야 합니다. 병사들의 식량과 물이 바닥나고 있습니다."
+  },
+  "RoA_A01_M02_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Let's check this cellar, maybe there is something.",
+    "koKR": "이 지하실을 살펴보자. 쓸 만한 게 있을지도 모른다."
+  },
+  "RoA_A01_M02_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Captain Danath, we have survivors!",
+    "koKR": "다나스 대장님, 생존자들이 있습니다!"
+  },
+  "RoA_A01_M02_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Greetings! We’ve been hiding here from those greenskinned beasts. They plundered Southshore and have settled in ravaged villages nearby.",
+    "koKR": "반갑습니다! 저희는 녹색 피부의 야수들을 피해 이곳에 숨어 있었습니다. 놈들은 남녘해안을 약탈하고는 근처의 폐허가 된 마을들에 눌러앉았습니다."
+  },
+  "RoA_A01_M02_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That’s what savage mongrels do. Men, let’s pay them a visit!",
+    "koKR": "야만스러운 짐승들이나 할 짓이군. 병사들이여, 놈들에게 한 방 먹여주러 가자!"
+  },
+  "RoA_A01_M02_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "I can write a tale about you.",
+    "koKR": "당신의 이야기를 글로 남겨 드릴 수 있소."
+  },
+  "RoA_A01_M02_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "No one ever listens…",
+    "koKR": "아무도 내 이야기를 듣지 않는군..."
+  },
+  "RoA_A01_M02_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "Stay a while and listen.",
+    "koKR": "잠시 내 이야기 좀 들어보시지요."
+  },
+  "RoA_A01_M02_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "DRO",
+    "unit_name": "Drunk Orc",
+    "enUS": "Humanz… ehk, Kill them!",
+    "koKR": "인간이다... 딸꾹, 죽여라!"
+  },
+  "RoA_A01_M02_VO_S003_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Filthy creature, my sword will sober you up!",
+    "koKR": "더러운 놈, 내 칼로 술을 깨게 해 주마!"
+  },
+  "RoA_A01_M02_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Please! No hurt!",
+    "koKR": "제발! 나 때리지 마!"
+  },
+  "RoA_A01_M02_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "DRO",
+    "unit_name": "Drunk Orc",
+    "enUS": "The humans are attacking! Kill them!",
+    "koKR": "인간들이 공격한다! 죽여라!"
+  },
+  "RoA_A01_M02_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I’ll never get tired of killing this scum!",
+    "koKR": "이 쓰레기들을 죽이는 건 아무리 해도 질리지 않는군!"
+  },
+  "RoA_A01_M02_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Hey! Quit disturbing me, me need wipe wipe!",
+    "koKR": "어이! 방해하지 마, 나 뒤 닦아야 해!"
+  },
+  "RoA_A01_M02_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Zug zug zug, Argh! Hey! Ow, me need alone time!",
+    "koKR": "저그 저그 저그, 으악! 어이! 아야, 나 좀 내버려 둬!"
+  },
+  "RoA_A01_M02_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "The orcs will bother you no more, old man. We have secured a perimeter around Southshore.",
+    "koKR": "이제 오크들이 괴롭힐 일은 없을 겁니다, 어르신. 저희가 남녘해안 주변을 확보했습니다."
+  },
+  "RoA_A01_M02_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Thank you, brave commander. Please stay a while and get some rest. We have some food and supplies that we can share with your soldiers.",
+    "koKR": "감사합니다, 용감한 지휘관님. 잠시 머물며 쉬어 가십시오. 병사들에게 나눠 드릴 식량과 보급품이 조금 있습니다."
+  },
+  "RoA_A01_M02_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I have a better idea. Give us a couple of strong workers and we will rebuild the town hall together. This town can be a perfect base for the Alliance army that is marching in this direction.",
+    "koKR": "더 좋은 생각이 있습니다. 힘센 일꾼 몇 명을 보내 주시면 함께 마을 회관을 재건하겠습니다. 이곳은 이쪽으로 진군 중인 얼라이언스 군대의 훌륭한 거점이 될 겁니다."
+  },
+  "RoA_A01_M02_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Very well, everything you need, sir.",
+    "koKR": "물론입니다. 필요한 것은 무엇이든 드리겠습니다."
+  },
+  "RoA_A01_M02_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Well, well, the mysterious elves of Silvermoon. What a surprise to see you here…",
+    "koKR": "이거 참, 실버문의 신비로운 엘프들이 아닌가. 이런 곳에서 만나다니 뜻밖이군..."
+  },
+  "RoA_A01_M02_VO_S008_002": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Greetings, human. We were sent here to rescue a contingent of archers headed to Dalaran. Our spies report that shortly after passing through the Alterac grasslands, they were ambushed by Horde troops. We believe that they are now held in a small prison camp near the northwest region of Tarren Mill.",
+    "koKR": "반갑소, 인간이여. 우리는 달라란으로 향하던 궁수 부대를 구출하러 왔소. 첩보에 따르면 그들은 알터랙 초원을 지나자마자 호드의 매복에 당했다고 하오. 지금은 타렌 제분소 북서쪽 인근의 작은 포로수용소에 갇혀 있는 것으로 보이오."
+  },
+  "RoA_A01_M02_VO_S008_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "To reach Tarren Mill, you have to sail up the Darrowmere River, yet you landed here.",
+    "koKR": "타렌 제분소로 가려면 다로미어 강을 거슬러 올라가야 할 텐데, 어째서 이곳에 상륙했나?"
+  },
+  "RoA_A01_M02_VO_S008_004": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Elven Captain",
+    "enUS": "That was our destination, but troll destroyers are guarding the river mouth. We can’t defeat those without reinforcements.",
+    "koKR": "우리도 그리로 가려 했지만, 트롤 구축함들이 강 하구를 지키고 있소. 지원군 없이는 놈들을 당해낼 수 없소."
+  },
+  "RoA_A01_M02_VO_S008_005": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Trolls…I see. I can help you, but on one condition, elf.",
+    "koKR": "트롤이라... 그렇군. 도와줄 수는 있다만, 조건이 하나 있네, 엘프."
+  },
+  "RoA_A01_M02_VO_S008_006": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Elven Captain",
+    "enUS": "I’m listening.",
+    "koKR": "말해 보시오."
+  },
+  "RoA_A01_M02_VO_S008_007": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I will be the man in charge of this operation.",
+    "koKR": "이번 작전의 지휘는 내가 맡겠네."
+  },
+  "RoA_A01_M02_VO_S008_008": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Very well. Our sylvan craftsman will build an elven lumber mill. With it, we can build more ships quickly.",
+    "koKR": "좋소. 우리 숲의 장인이 엘프 제재소를 지을 것이오. 그러면 배를 더 빠르게 건조할 수 있을 것이오."
+  },
+  "RoA_A01_M02_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "These rivers used to bring commerce throughout the kingdoms, now they’re polluted with the stench of beasts and savages.",
+    "koKR": "한때 이 강은 왕국들을 잇는 교역로였지. 이제는 짐승과 야만인들의 악취로 더럽혀졌군."
+  },
+  "RoA_A01_M02_VO_S009_002": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "I couldn’t agree more, our forward scouts have warned us of many orcish watch posts looming on both sides of the river, and the troll destroyers are ever vigilant.",
+    "koKR": "동감이오. 앞서 보낸 정찰병들이 강 양쪽에 오크 감시 초소가 즐비하다고 경고했소. 트롤 구축함들도 빈틈없이 경계하고 있소."
+  },
+  "RoA_A01_M02_VO_S009_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I hope you elves are as good battling on the sea as you are with magic, otherwise, I may have delivered me and my men an early death.",
+    "koKR": "자네 엘프들이 마법만큼 해전에도 능하기를 바라네. 그렇지 않다면 나와 내 병사들을 사지에 몰아넣은 셈이니."
+  },
+  "RoA_A01_M02_VO_S009_004": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Ha! Fear not, human, you will not die on my watch. Not today.",
+    "koKR": "하! 걱정 마시오, 인간이여. 내가 있는 한 그대가 죽을 일은 없소. 적어도 오늘은 말이오."
+  },
+  "RoA_A01_M02_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Kul'tiran ships… They were destroyed by the dragons when Admiral Proudmoore tried to retake Southshore…",
+    "koKR": "쿨 티라스의 함선들이군... 프라우드무어 제독이 남녘해안을 탈환하려다 용들에게 당했지..."
+  },
+  "RoA_A01_M02_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "We are approaching Tarren Mill. Careful now, I bet the orcs there are much better prepared than the ones we saw in Southshore.",
+    "koKR": "타렌 제분소에 가까워지고 있다. 조심해라. 이곳의 오크들은 남녘해안에서 만난 놈들보다 훨씬 철저히 대비하고 있을 것이다."
+  },
+  "RoA_A01_M02_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "We have learned there are more survivors held captive in the woods around Tarren Mill. The orcs are using them as forced labor.",
+    "koKR": "타렌 제분소 주변 숲에도 생존자들이 붙잡혀 있다는 사실을 알아냈습니다. 오크들이 강제로 일을 시키고 있다고 합니다."
+  },
+  "RoA_A01_M02_VO_S011_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Then we must help them. These poor fellows must have endured too much. Once we get there, you’ll see to it.",
+    "koKR": "그렇다면 우리가 그들을 구해야 한다. 그 가엾은 이들은 너무 많은 고통을 겪었을 테니. 도착하는 대로 자네가 챙겨주게."
+  },
+  "RoA_A01_M02_VO_S011_004": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Yes, captain.",
+    "koKR": "알겠습니다, 대장님."
+  },
+  "RoA_A01_M02_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Damn the orcs!",
+    "koKR": "빌어먹을 오크 놈들!"
+  },
+  "RoA_A01_M02_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "RDE",
+    "unit_name": "Regional Defender",
+    "enUS": "My sword is yours!",
+    "koKR": "명령만 내려 주십시오!"
+  },
+  "RoA_A01_M02_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Help us!",
+    "koKR": "살려 주십시오!"
+  },
+  "RoA_A01_M02_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "These wretched orcs are forcing us to work day and night!",
+    "koKR": "이 망할 오크들이 밤낮없이 일을 시키고 있습니다!"
+  },
+  "RoA_A01_M02_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Thank you, sire!",
+    "koKR": "감사합니다, 나리!"
+  },
+  "RoA_A01_M02_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Time to repay those blasted orcs in kind!",
+    "koKR": "이제 저 망할 오크들에게 똑같이 갚아 줄 차례다!"
+  },
+  "RoA_A01_M02_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "RDE",
+    "unit_name": "Regional Defender",
+    "enUS": "Wretched orcs, now they’ll see.",
+    "koKR": "빌어먹을 오크들, 이제 두고 보자."
+  },
+  "RoA_A01_M02_VO_S012_008": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "The prisoners have been freed. Now, onto Tarren Mill!",
+    "koKR": "포로들을 모두 구출했습니다. 이제 타렌 제분소로 향하시죠!"
+  },
+  "RoA_A01_M02_VO_S013_001": {
+    "type": "VO",
+    "unit_id": "OCA",
+    "unit_name": "Orc Captain",
+    "enUS": "Hah! As expected, the elven stench has attracted the human insects! Kill them all warriors!",
+    "koKR": "하! 역시 엘프의 악취에 인간 벌레들이 꼬여들었군! 전사들이여, 모조리 죽여라!"
+  },
+  "RoA_A01_M02_VO_S013_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I don’t think so!",
+    "koKR": "그렇게는 안 될 거다!"
+  },
+  "RoA_A01_M02_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "Thank you, sir. We were heading to Dalaran, to help the Kirin Tor battle the Horde, but we got captured instead.",
+    "koKR": "감사합니다. 저희는 키린 토가 호드와 싸우는 것을 돕기 위해 달라란으로 향하던 중이었으나, 도리어 포로로 잡히고 말았습니다."
+  },
+  "RoA_A01_M02_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Haha, you should bring better scouts next time, elf. Lucky you, you’re in good company now.",
+    "koKR": "하하, 다음번엔 좀 더 유능한 정찰병을 데려오게, 엘프. 자넨 운이 좋군, 우리랑 함께하게 됐으니."
+  },
+  "RoA_A01_M02_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "What's that?",
+    "koKR": "저게 무슨 소리입니까?"
+  },
+  "RoA_A01_M02_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That is the sound of hope.",
+    "koKR": "희망의 소리라네."
+  }
+}

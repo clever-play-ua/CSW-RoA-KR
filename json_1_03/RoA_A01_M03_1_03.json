@@ -1,0 +1,1717 @@
+{
+  "RoA_A01_M03_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HEROES|r\nKhadgar became a great hero in recognition for his valiant service and advice to the kingdom of Azeroth during the First War. Khadgar traveled to Dalaran to discuss the origins of the Dark Portal with the mysterious council of Kirin Tor.",
+    "koKR": "|cff8080ff새로운 영웅|r\n카드가는 1차 대전쟁 동안 아제로스 왕국에 바친 용맹한 헌신과 조언을 인정받아 위대한 영웅이 되었습니다. 카드가는 어둠의 문에 관한 기원을 키린 토의 신비로운 의회와 논의하기 위해 달라란으로 향했습니다."
+  },
+  "RoA_A01_M03_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nThe enemy launched artillery strikes!|r",
+    "koKR": "|cffff0000경고|r\n적이 공성 포격을 시작했습니다!"
+  },
+  "RoA_A01_M03_MESS_003": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff00ff00Artillery strike round ended.|r",
+    "koKR": "|cff00ff00공성 포격이 종료되었습니다.|r"
+  },
+  "RoA_A01_M03_MESS_004": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThere are no farms in Dalaran. Food is stored within houses, and your workers cannot build new ones. Keep them repaired after enemy attacks.",
+    "koKR": "|cff32cd32힌트|r  \n달라란에는 농장이 없습니다. 식량은 건물 안에 저장되며, 노동자들은 새로운 건물을 지을 수 없습니다. 적의 공격 후에는 수리해 두어야 합니다.  \n\n"
+  },
+  "RoA_A01_M03_MESS_005": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r  \nDalaran Swordsman – unique soldier of Dalaran, can be trained to withstand magical attacks.",
+    "koKR": "|cffffcc00유닛 변경|r\n달라란 검사 – 마법 공격을 저항하도록 훈련할 수 있는 달라란의 고유 병사입니다."
+  },
+  "RoA_A01_M03_MESS_006": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r  \nElven Sentinel – elven citizens of Dalaran, skilled in marksmanship.",
+    "koKR": "|cffffcc00유닛 변경|r  \n엘프 파수꾼 – 달라란의 엘프 시민으로, 사격에 능숙합니다.\n"
+  },
+  "RoA_A01_M03_MESS_007": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nFel Portals opened across the city!|r",
+    "koKR": "|cffff0000경고|r\n도시 전역에 지옥 차원문이 열렸습니다!"
+  },
+  "RoA_A01_M03_MESS_008": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nBlacksmith has upgrades for infantry. It also allows you to research \"Alliance Melee Training\" in Barracks.",
+    "koKR": "|cffffcc00새로운 업그레이드 가능|r\n대장간에서는 보병을 위한 업그레이드를 할 수 있습니다. 또한 이제 병영에서 얼라이언스 근접 전투 훈련을 연구할 수 있습니다."
+  },
+  "RoA_A01_M03_MESS_009": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nYour workers can repair allied buildings.",
+    "koKR": "|cff32cd32힌트|r  \n장인들은 아군 건물을 수리할 수 있습니다."
+  },
+  "RoA_A01_M03_MESS_010": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKhadgar can use the ability \"Leak the Oil\" to pour oil on the ground while moving. The oil trail must connect to the planted barrels to create a diversion.",
+    "koKR": "|cff32cd32힌트|r  \n카드가는 기름 흘리기 능력을 사용하며 이동하면서 땅에 기름 자국을 남길 수 있습니다. 소란을 일으키기 위해서는 기름 자국이 설치된 기름통들과 연결되어야 합니다."
+  },
+  "RoA_A01_M03_MESS_011": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nAdditional oil barrels can be discovered in the Orc camps.",
+    "koKR": "|cff32cd32힌트|r  \n오크 진영에서 추가 기름통을 발견할 수 있습니다.\n\n"
+  },
+  "RoA_A01_M03_MESS_012": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKel’Thuzad will follow Khadgar’s lead. Guide the archmages to the designated sites so Kel’Thuzad can set up Arcane Generators.",
+    "koKR": "|cff32cd32힌트|r  \n켈투자드는 카드가를 뒤따를 것입니다. 켈투자드가 비전 발전기를 설치할 수 있도록 지정된 장소로 이동시키십시오."
+  },
+  "RoA_A01_M03_MESS_013": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKel’Thuzad has activated the Arcane Generator. All undead within its range now suffer damage over time.",
+    "koKR": "|cff32cd32힌트|r  \n켈투자드가 비전 발전기를 가동했습니다. 이제 범위 내의 모든 언데드는 지속 피해를 입습니다."
+  },
+  "RoA_A01_M03_MESS_014": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThe Violet Council has finished its preparations and will soon strike at the invaders.",
+    "koKR": "|cff32cd32힌트|r  \n보랏빛 의회는 준비를 마쳤으며, 곧 침략자들을 공격할 예정입니다.\n"
+  },
+  "RoA_A01_M03_MESS_015": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r\nAnother Dalaran Bank has become accessible.",
+    "koKR": "|cff32cd32힌트|r\n달라란에 또 다른 은행이 이용 가능해졌습니다.  \n"
+  },
+  "RoA_A01_M03_MESS_016": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKirin Tor mages have built a new waygate to move their forces closer to the front lines. You can use it as well.",
+    "koKR": "|cff32cd32힌트|r  \n키린 토의 마법사들이 병력을 전선 근처로 이동시키기 위해 새로운 차원문을 건설했습니다.\n"
+  },
+  "RoA_A01_M03_MESS_017": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThe Alliance Vanguard and the Gilnean army will attack the remaining orc camps.",
+    "koKR": "|cff32cd32힌트|r  \n얼라이언스 선봉대와 길니아스 군대가 남아 있는 오크 진영을 공격할 것입니다.  "
+  },
+  "RoA_A01_M03_MESS_018": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nUndead are attacking the Violet Citadel!",
+    "koKR": "|cffff0000경고|r\n언데드가 보랏빛 성채를 공격하고 있습니다!"
+  },
+  "RoA_A01_M03_MESS_019": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00Only shackled Dragons can be teleported.|r",
+    "koKR": "|cffffcc00올가미가 채워진 용만 순간이동할 수 있습니다.|r"
+  },
+  "RoA_A01_M03_MESS_020": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Dragon was killed!!|r",
+    "koKR": "|cffff0000용이 죽었습니다!|r"
+  },
+  "RoA_A01_M03_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dalaran",
+    "koKR": "달라란"
+  },
+  "RoA_A01_M03_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The Horde threatens the Violet Citadel, intent on its destruction. Defend the citadel and ensure its towers remain standing, the fate of our magical defenses depends on you.",
+    "koKR": "호드가 보랏빛 성채를 파괴하려고 위협하고 있습니다. 성채를 방어하고 탑들이 무너지지 않도록 지켜내십시오. 달라란 마법 방어선의 운명이 당신에게 달려 있습니다."
+  },
+  "RoA_A01_M03_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Protect the Violet Citadel.",
+    "koKR": "보랏빛 성채를 보호해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDalaran\n - Protect the Violet Citadel",
+    "koKR": "|cffffcc00주 퀘스트|r\n달라란\n  - 보랏빛 성채를 보호해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDalaran\n - |cffff0000Protect the Violet Citadel (failed)|r",
+    "koKR": "|cffffcc00주 퀘스트 실패|r\n달라란\n  - |cffff0000보랏빛 성채를 보호해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDalaran",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n달라란"
+  },
+  "RoA_A01_M03_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "koKR": "|cffffcc00임무 실패|r"
+  },
+  "RoA_A01_M03_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Protect the Violet Citadel (failed)|r",
+    "koKR": "|cffff0000보랏빛 성채를 보호해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prepare for Defense",
+    "koKR": "수성 준비"
+  },
+  "RoA_A01_M03_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Drenden has tasked Khadgar with training new soldiers to bolster the city’s defenses. Strengthen your ranks and ready the troops for the battles ahead.",
+    "koKR": "드렌덴은 카드가에게 도시의 방어력을 강화할 신병을 훈련하라는 임무를 맡겼습니다. 전열을 정비하고 다가올 전투에 대비해 부대를 준비하십시오."
+  },
+  "RoA_A01_M03_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train 5 Sentinels.",
+    "koKR": "파수꾼을 5기 훈련해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train 5 Swordsmen.",
+    "koKR": "검사를 5기 훈련해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nPrepare for Defense",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n수성 준비"
+  },
+  "RoA_A01_M03_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nPrepare for Defense\n - Train 5 Swordsmen\n - Train 5 Sentinels",
+    "koKR": "|cffffcc00주 퀘스트|r\n수성 준비\n  - 검사 5기를 훈련해야 합니다.\n  - 파수꾼 5기를 훈련해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find the Blacksmith",
+    "koKR": "대장장이를 찾아야 합니다."
+  },
+  "RoA_A01_M03_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The city’s blacksmith can forge stronger weapons and armor for your troops. Seek out a skilled smith and equip your soldiers with better armaments.",
+    "koKR": "도시의 대장장이가 부대를 위해 더 강력한 무기와 방어구를 제련할 수 있습니다. 숙련된 대장장이를 찾아 병사들에게 더 뛰어난 장비를 갖추어 주십시오."
+  },
+  "RoA_A01_M03_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find the Blacksmith.",
+    "koKR": "대장장이를 찾아야 합니다."
+  },
+  "RoA_A01_M03_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nBlacksmith\n - Find the Blacksmith.",
+    "koKR": "|cffffcc00선택 퀘스트|r\n대장장이\n  - 대장장이를 찾아야 합니다."
+  },
+  "RoA_A01_M03_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nBlacksmith",
+    "koKR": "|cffffcc00선택 퀘스트 완료|r\n대장장이"
+  },
+  "RoA_A01_M03_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "In Disguise",
+    "koKR": "위장 전술"
+  },
+  "RoA_A01_M03_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "In disguise",
+    "koKR": "위장 전술"
+  },
+  "RoA_A01_M03_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Modera has entrusted Khadgar with a magical scroll that disguises him as an orc and revealed a portal leading out of the city. He must move carefully, if the eyes of Kilrogg detect him, the mission will be compromised.",
+    "koKR": "모데라는 카드가에게 오크로 위장할 수 있는 마법 주문서를 맡기고 도시 밖으로 이어지는 차원문을 알려주었습니다. 킬로그의 눈에 포착되면 임무가 실패로 돌아가므로 조심해서 이동해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use the Way Gate to teleport to wilderness.",
+    "koKR": "차원 관문을 이용해 황무지로 순간이동해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use the Scroll of Disguise Self to conceal Khadgar.",
+    "koKR": "변장의 두루마리를 사용하여 카드가의 모습을 감춰야 합니다."
+  },
+  "RoA_A01_M03_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Connect the dropped barrels with an oil trail.",
+    "koKR": "설치한 기름통을 기름 자국으로 연결해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nIn Disguise\n - Use the Way Gate to teleport to wilderness\n - Use the Scroll of Disguise Self to conceal Khadgar",
+    "koKR": "|cffffcc00주 퀘스트|r\n위장 전술\n  - 차원 관문을 이용해 황무지로 순간이동해야 합니다.\n  - 변장의 두루마리를 사용하여 카드가의 모습을 감춰야 합니다."
+  },
+  "RoA_A01_M03_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - Drop oil barrels at siege launchers\n - Connect the dropped barrels with an oil trail\n - Khadgar must not be compromised",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n위장 전술\n  - 공성 발사대에 기름통을 설치해야 합니다.\n  - 설치한 기름통을 기름 자국으로 연결해야 합니다.\n  - 카드가의 정체가 드러나선 안 됩니다."
+  },
+  "RoA_A01_M03_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Use the Way Gate to teleport to wilderness (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n위장 전술\n  - |cff808080차원 관문을 이용해 황무지로 순간이동해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M03_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Use the Scroll of Disguise Self to conceal Khadgar (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n위장 전술\n  - |cff808080변장의 두루마리를 사용하여 카드가의 모습을 감춰야 합니다. (완료)|r"
+  },
+  "RoA_A01_M03_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nIn Disguise\n - |cffff0000Khadgar must not be compromised (failed)|r",
+    "koKR": "|cffffcc00주 퀘스트 실패|r\n위장 전술\n  - |cffff0000카드가의 정체가 드러나선 안 됩니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Khadgar must not be compromised (failed)|r",
+    "koKR": "|cffff0000카드가의 정체가 드러나선 안 됩니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nIn Disguise\n - |cffff0000Destroy Siege Launchers (failed)|r",
+    "koKR": "|cffffcc00주 퀘스트 실패|r\n위장 전술\n  - |cffff0000공성 발사대를 파괴해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Destroy Siege Launchers (failed)|r",
+    "koKR": "|cffff0000공성 발사대를 파괴해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Drop oil barrels at siege launchers (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n위장 전술\n  - |cff808080공성 발사대에 기름통을 설치해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M03_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nIn Disguise",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n위장 전술"
+  },
+  "RoA_A01_M03_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Drop oil barrels at siege launchers.",
+    "koKR": "공성 발사대에 기름통을 설치해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Khadgar must not be compromised.",
+    "koKR": "카드가의 정체가 드러나선 안 됩니다."
+  },
+  "RoA_A01_M03_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Close the Portals",
+    "koKR": "차원문 닫기"
+  },
+  "RoA_A01_M03_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill Orcish warlocks that maintain the portals to close them.",
+    "koKR": "차원문을 시전하는 오크 흑마법사를 처치하여 차원문을 닫아야 합니다."
+  },
+  "RoA_A01_M03_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill 3 orcish warlocks that maintain the portals.",
+    "koKR": "차원문을 시전하는 오크 흑마법사 3명을 처치해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nClose the Portals\n - Kill 3 orcish warlocks that maintain the portals.",
+    "koKR": "|cffffcc00선택 퀘스트|r\n차원문 닫기\n  - 차원문을 시전하는 오크 흑마법사 3명을 처치해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nClose the Portals",
+    "koKR": "|cffffcc00선택 퀘스트 완료|r\n차원문 닫기"
+  },
+  "RoA_A01_M03_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nClose the Portals\n - |cffff0000Kill 3 orcish warlocks that maintain the portals. (Failed)|r",
+    "koKR": "|cffffcc00선택 퀘스트 실패|r\n차원문 닫기\n  - |cffff0000차원문을 시전하는 오크 흑마법사 3명을 처치해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Kill 3 orcish warlocks that maintain the portals. (Failed)|r",
+    "koKR": "|cffff0000차원문을 시전하는 오크 흑마법사 3명을 처치해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dalaran Guardians",
+    "koKR": "달라란의 수호자"
+  },
+  "RoA_A01_M03_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nActivate Guardians\n - Find 3 magical crystals.",
+    "koKR": "|cffffcc00선택 퀘스트|r\n수호자 활성화\n  - 마법 수정석을 3개 찾아야 합니다."
+  },
+  "RoA_A01_M03_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nActivate Guardians\n - |cff808080Find 3 magical crystals. (Completed)|r\n - Bring the crystals to the Violet Citadel.",
+    "koKR": "|cffffcc00선택 퀘스트 업데이트|r\n수호자 활성화\n  - |cff808080마법 수정석을 3개 찾아야 합니다. (완료)|r\n  - 수정석을 보랏빛 성채로 가져가야 합니다."
+  },
+  "RoA_A01_M03_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nActivate Guardians",
+    "koKR": "|cffffcc00선택 퀘스트 완료|r\n수호자 기동하기"
+  },
+  "RoA_A01_M03_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nActivate Guardians\n - |cffff0000Find 3 magical crystals. (Failed)|r",
+    "koKR": "|cffffcc00선택 퀘스트 실패|r\n수호자 활성화\n  - |cffff0000마법 수정석 3개를 찾아야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Find 3 magical crystals. (Failed)|r",
+    "koKR": "|cffff0000마법 수정석 3개를 찾아야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find 3 magical crystals.",
+    "koKR": "마법 수정석을 3개 찾아야 합니다."
+  },
+  "RoA_A01_M03_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Orcish warlocks hold magical crystals capable of reactivating the Guardian golems. Reclaim the crystals to awaken these ancient protectors.",
+    "koKR": "오크 흑마법사들이 수호자 골렘을 재가동할 수 있는 마법 수정석을 소지하고 있습니다. 수정석을 되찾아 고대의 수호자들을 깨우십시오."
+  },
+  "RoA_A01_M03_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Bring the crystals to the Violet Citadel.",
+    "koKR": "수정석을 보랏빛 성채로 가져가야 합니다."
+  },
+  "RoA_A01_M03_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Hold the Line",
+    "koKR": "전선 유지하기"
+  },
+  "RoA_A01_M03_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Krasus commands the frontlines and calls upon Khadgar to aid in holding the defenses. Reinforce the battle lines and ensure the enemy does not break through.",
+    "koKR": "크라서스가 전선을 지휘하고 있으며 카드가에게 방어 지원을 요청했습니다. 전선을 강화하고 적이 뚫고 들어오지 못하게 해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nHold the Line\n - Help the Kirin Tor forces to hold off 3 waves of attack",
+    "koKR": "|cffffcc00주 퀘스트|r\n전선 사수\n  - 키린 토 부대를 도와 적의 공세를 3회 막아내야 합니다."
+  },
+  "RoA_A01_M03_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Help the Kirin Tor forces to hold off 3 waves of attack.",
+    "koKR": "키린 토 부대를 도와 적의 공세를 3회 막아내야 합니다."
+  },
+  "RoA_A01_M03_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nHold the Line",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n전선 유지하기"
+  },
+  "RoA_A01_M03_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Undead Menace",
+    "koKR": "언데드의 위협"
+  },
+  "RoA_A01_M03_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kel’Thuzad offers his aid against the rising undead, claiming knowledge of how to halt their advance. Join forces with him and uncover the means to turn the tide.",
+    "koKR": "켈투자드가 창궐하는 언데드에 맞서 싸우는 데 도움을 주겠다고 제안하며, 그들의 진격을 막을 방법을 알고 있다고 주장합니다. 그와 힘을 합쳐 전세를 뒤집을 방도를 찾아내십시오."
+  },
+  "RoA_A01_M03_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Activate 2 Arcane Generators against the Undead.",
+    "koKR": "언데드에 맞서 비전 발전기 2개를 활성화해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Protect Kel'thuzad while he sets up generators.",
+    "koKR": "켈투자드가 비전 발전기를 설치하는 동안 보호해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_063": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nUndead Menace\n - Activate 2 Arcane Generators against the Undead.\n - Protect Kel'thuzad while he sets up the generators.",
+    "koKR": "|cffffcc00주 퀘스트|r\n언데드의 위협\n  - 언데드에 맞서 비전 발전기 2개를 활성화해야 합니다.\n  - 켈투자드가 비전 발전기를 설치하는 동안 보호해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_064": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nUndead Menace\n - |cffff0000Protect Kel'thuzad while he sets up the generators. (failed)|r",
+    "koKR": "|cffffcc00주 퀘스트 실패|r\n언데드의 위협\n  - |cffff0000켈투자드가 비전 발전기를 설치하는 동안 보호해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_065": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nUndead Menace",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n언데드의 위협"
+  },
+  "RoA_A01_M03_OBJE_066": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Protect Kel'thuzad while he sets up the generators. (failed)|r",
+    "koKR": "|cffff0000켈투자드가 비전 발전기를 설치하는 동안 보호해야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_067": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragon Hazard",
+    "koKR": "용의 위협"
+  },
+  "RoA_A01_M03_OBJE_068": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragons are a grave threat, yet Krasus forbids their killing, honoring the Dragon Aspects.  Capture them using Dragonhawk nets and teleport them with powers of Krasus's Staff.",
+    "koKR": "용들은 심각한 위협이지만, 크라서스는 위상의 뜻을 존중하여 용을 죽이는 것을 금지합니다. 용매의 올가미를 사용하여 용을 포획하고 크라서스의 지팡이 힘으로 이동시켜야 합니다."
+  },
+  "RoA_A01_M03_OBJE_069": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use Staff of Krasus to teleport netted Dragons.",
+    "koKR": "크라서스의 지팡이를 사용하여 포획한 용을 순간이동시켜야 합니다."
+  },
+  "RoA_A01_M03_OBJE_070": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Do not allow more than 3 Dragons to be killed.",
+    "koKR": "용이 3마리 이상 죽지 않아야 합니다."
+  },
+  "RoA_A01_M03_OBJE_071": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Capture the dragons with dragonhawk nets.",
+    "koKR": "용매의 올가미로 용을 포획해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_072": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDragon Hazard\n - Capture the dragons with dragonhawk nets\n - Use Krasus` staff to teleport captured dragons\n - Do not allow more than 3 Dragons to be killed",
+    "koKR": "|cffffcc00주 퀘스트|r\n용의 위협\n  - 용매의 올가미로 용을 포획해야 합니다.\n  - 크라서스의 지팡이를 사용하여 포획한 용을 순간이동시켜야 합니다.\n  - 용이 3마리 이상 죽지 않아야 합니다."
+  },
+  "RoA_A01_M03_OBJE_073": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDragon Hazard",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n용의 위협"
+  },
+  "RoA_A01_M03_OBJE_074": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDragon Hazard\n - |cffff0000Do not allow more than 3 Dragons to be killed. (failed)|r",
+    "koKR": "|cffffcc00주 퀘스트 실패|r\n용의 위협\n  - |cffff0000용이 3마리 이상 죽지 않아야 합니다. (실패)|r"
+  },
+  "RoA_A01_M03_OBJE_075": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dam",
+    "koKR": "댐"
+  },
+  "RoA_A01_M03_OBJE_076": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "With the dragons dealt with, the dam can be repaired to halt the orcish advance. Restore it to prevent the enemy from reaching the city.",
+    "koKR": "용들을 처리했으니, 댐을 수리하여 오크군의 진격을 막을 수 있습니다. 적이 도시까지 도달하지 못하도록 댐을 수리하십시오."
+  },
+  "RoA_A01_M03_OBJE_077": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair the dam.",
+    "koKR": "댐을 수리해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_078": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDam\n - Repair the dam",
+    "koKR": "|cffffcc00주 퀘스트|r\n댐\n  - 댐을 수리해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_079": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDam",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n댐"
+  },
+  "RoA_A01_M03_OBJE_080": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Counteroffensive",
+    "koKR": "반격"
+  },
+  "RoA_A01_M03_OBJE_081": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The time has come to strike back at the invaders. Rally your forces and lay waste to their encampments, leaving none to threaten the city again.",
+    "koKR": "침략자들에게 반격을 가할 때가 왔습니다. 병력을 결집해 적의 주둔지를 궤멸시키고, 다시는 도시를 위협하지 못하게 하십시오."
+  },
+  "RoA_A01_M03_OBJE_082": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Blackrock Camp.",
+    "koKR": "검은바위 부족 기지를 파괴해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_083": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nCounteroffensive\n - Destroy Blackrock Camp",
+    "koKR": "|cffffcc00주 퀘스트|r\n반격\n  - 검은바위 기지를 파괴해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_084": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Blackrock Camp. (Completed)|r\n - Destroy Black Tooth Grin Camp\n - Destroy Dragonmaw Camp",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n반격\n  - |cff808080검은바위 부족 기지를 파괴해야 합니다. (완료)|r\n  - 검은이빨 부족 기지를 파괴해야 합니다.\n  - 용아귀 부족 기지를 파괴해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_085": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Black Tooth Grin Camp. (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n반격\n  - |cff808080검은이빨 부족 기지를 파괴해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M03_OBJE_086": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Dragonmaw Camp. (Completed)|r",
+    "koKR": "|cffffcc00주 퀘스트 업데이트|r\n반격\n  - |cff808080용아귀 부족 기지를 파괴해야 합니다. (완료)|r"
+  },
+  "RoA_A01_M03_OBJE_087": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nCounteroffensive",
+    "koKR": "|cffffcc00주 퀘스트 완료|r\n반격"
+  },
+  "RoA_A01_M03_OBJE_088": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Dragonmaw Camp.",
+    "koKR": "용아귀 부족 기지를 파괴해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_089": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Black Tooth Grin Camp.",
+    "koKR": "검은이빨 부족 기지를 파괴해야 합니다."
+  },
+  "RoA_A01_M03_OBJE_090": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Dragonmaw Camp",
+    "koKR": "용아귀 부족 기지 파괴"
+  },
+  "RoA_A01_M03_OBJE_091": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Black Tooth Grin Camp",
+    "koKR": "검은이빨 부족 기지 파괴"
+  },
+  "RoA_A01_M03_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Quest Objectives:",
+    "koKR": "퀘스트 목표:"
+  },
+  "RoA_A01_M03_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Swordsmen left to train:",
+    "koKR": "남은 검사:"
+  },
+  "RoA_A01_M03_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Sentinels left to train:",
+    "koKR": "남은 파수꾼:"
+  },
+  "RoA_A01_M03_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Opened Active Portals",
+    "koKR": "열려 있는 차원문"
+  },
+  "RoA_A01_M03_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Barrels to drop at catapults:",
+    "koKR": "공성 발사대에 설치한 기름통:"
+  },
+  "RoA_A01_M03_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Disguise dispels in:",
+    "koKR": "변장 지속 시간: "
+  },
+  "RoA_A01_M03_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Crystals left to pick:",
+    "koKR": "남은 수정석:"
+  },
+  "RoA_A01_M03_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Warlocks left:",
+    "koKR": "남은 흑마법사:"
+  },
+  "RoA_A01_M03_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Attack Waves Remaining:",
+    "koKR": "남은 공격:"
+  },
+  "RoA_A01_M03_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Set up magical generators:",
+    "koKR": "남은 비전 발전기:"
+  },
+  "RoA_A01_M03_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Setting up magical generator in:",
+    "koKR": "비전 발전기 설치까지:"
+  },
+  "RoA_A01_M03_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Setting up magical generator in:",
+    "koKR": "비전 발전기 설치까지:"
+  },
+  "RoA_A01_M03_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repairment Progress (%):",
+    "koKR": "수리 진행률:"
+  },
+  "RoA_A01_M03_SCRN_014": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Magical Prison",
+    "koKR": "마법 감옥"
+  },
+  "RoA_A01_M03_SCRN_015": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Killed Dragons:",
+    "koKR": "죽은 용:"
+  },
+  "RoA_A01_M03_SCRN_016": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Blackrock Camp",
+    "koKR": "검은바위 부족 기지 파괴"
+  },
+  "RoA_A01_M03_SCRN_017": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragons left to save:",
+    "koKR": "남은 용:"
+  },
+  "RoA_A01_M03_SCRN_018": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Next wave attacks in:",
+    "koKR": "다음 공격 까지:"
+  },
+  "RoA_A01_M03_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Great masters, welcome. If I may, let me…",
+    "koKR": "존경하는 대마법사 여러분, 어서 오십시오. 괜찮으시다면 제가…"
+  },
+  "RoA_A01_M03_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "There is no time for formalities, Master Drenden. Cross Island has fallen, Master Norlan has been slain, and the Horde is marching upon our city.",
+    "koKR": "격식을 차릴 시간이 없소, 드렌덴. 십자섬이 함락되고 놀란이 목숨을 잃었소. 호드가 우리 도시로 진군하고 있소."
+  },
+  "RoA_A01_M03_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Chief Artificer? Dead? Without his constructs and our outlying defenses, how can we hope to stop their onslaught?",
+    "koKR": "수석 기공사가? 죽었다고요? 그가 만든 피조물도, 외곽 방어 시설도 없이 어떻게 놈들의 맹공을 막아 낸단 말입니까?"
+  },
+  "RoA_A01_M03_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "I am afraid we will need to improvise.",
+    "koKR": "아무래도 임기응변으로 대응해야겠군요."
+  },
+  "RoA_A01_M03_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Improvise? They have dragons. We need more than that against such a power!",
+    "koKR": "임기응변이라니? 놈들에게는 용이 있소. 그만한 힘에 맞서려면 그것만으로는 부족하오!"
+  },
+  "RoA_A01_M03_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Calm down, masters. We’ve received a word that Doomhammer has been defeated at Lordaeron, and we’ll be soon reinforced by Alliance armies. The young Khadgar has delivered the report himself. We only need to hold our ground.",
+    "koKR": "진정들 하시오. 둠해머가 로데론에서 패배했다는 소식이 들어왔소. 머지않아 얼라이언스의 지원군이 도착할 것이오. 젊은 카드가가 직접 전해 온 소식이오. 우리는 이곳을 지키기만 하면 되오."
+  },
+  "RoA_A01_M03_VO_S001_007": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Drenden, rendezvous with Master Khadgar. His battlefield experience will be useful in coordinating our efforts.",
+    "koKR": "드렌덴, 카드가를 만나 보게. 그의 실전 경험이 우리의 방어를 조율하는 데 도움이 될 걸세."
+  },
+  "RoA_A01_M03_VO_S001_008": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "As you wish. But what of Master Norlan’s now-vacant position on our council?",
+    "koKR": "그리하겠습니다. 그런데 놀란 님이 세상을 떠나 공석이 된 의회 자리는 어떻게 하시겠습니까?"
+  },
+  "RoA_A01_M03_VO_S001_009": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "There’s no time to debate that now. But worry not, I have a candidate in mind. She might be young, but her talents are unquestionable…",
+    "koKR": "지금은 그 문제를 논할 때가 아니오. 하지만 걱정 마시오. 염두에 둔 후보가 있소. 젊은 여성이지만, 그 재능만큼은 의심할 여지가 없소…"
+  },
+  "RoA_A01_M03_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Master Khadgar, here you are. We need to talk. The council has a task for you.",
+    "koKR": "카드가, 여기 있었군. 할 이야기가 있네. 의회에서 자네에게 맡길 일이 있네."
+  },
+  "RoA_A01_M03_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Yes?",
+    "koKR": "무슨 일이십니까?"
+  },
+  "RoA_A01_M03_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "As the Kirin Tor is occupied with other tasks, we require someone to take care of our troops and battlefield defenses. Given your extensive experience, you seem to be the most fitting choice.",
+    "koKR": "키린 토는 다른 일로 손이 부족하니, 병력과 전선 방어를 맡아 줄 사람이 필요하네. 경험이 풍부한 자네가 가장 적임자일 것 같군."
+  },
+  "RoA_A01_M03_VO_S002_004": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "The outer gates and water barriers protect us from ground attacks, but with our magical defenses weakened, orcish warlocks can open portals to assail the city directly.",
+    "koKR": "외곽 성문과 수로가 지상 공격을 막아 주고 있지만, 마법 방어가 약해진 탓에 오크 흑마법사들이 차원문을 열어 도시 안으로 직접 쳐들어올 수 있네."
+  },
+  "RoA_A01_M03_VO_S002_005": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "With these portals active, even the Violet Citadel itself is in danger. You must do whatever you can to protect it from their assaults.",
+    "koKR": "차원문이 열려 있는 한 보랏빛 성채마저 위험하네. 무슨 수를 써서라도 놈들의 공격으로부터 성채를 지켜 주게."
+  },
+  "RoA_A01_M03_VO_S002_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Understood. But first, I need more soldiers.",
+    "koKR": "알겠습니다. 하지만 우선 병력이 더 필요합니다."
+  },
+  "RoA_A01_M03_VO_S002_007": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Indeed. Our infantry and archer regiments are at your disposal. As this district has already been damaged by the Horde’s bombardment, you will need to use our workforce and resources to repair its structures.",
+    "koKR": "그렇겠지. 우리 보병과 궁수 부대는 자네가 지휘하게. 이 구역은 이미 호드의 포격으로 피해를 입었으니, 작업자와 자원을 동원해 건물부터 복구해야 할 걸세."
+  },
+  "RoA_A01_M03_VO_S002_008": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "The city banks are open to you, take anything you need. You are also free to scour for any lumber hidden in crates and barrels. If need be, cut even park trees down.",
+    "koKR": "도시의 은행에서 필요한 만큼 가져다 쓰게. 상자와 통 안에 있는 목재도 자유롭게 찾아 쓰도록 하게. 필요하다면 공원의 나무를 베어도 좋네."
+  },
+  "RoA_A01_M03_VO_S002_009": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That will be a heartbreaking sight. I have always loved those trees. But it can’t be helped, the survival of our city is at stake.",
+    "koKR": "마음이 아프겠군요. 전 늘 이 나무들을 좋아했습니다. 하지만 어쩔 수 없지요. 도시의 생존이 걸린 일이니."
+  },
+  "RoA_A01_M03_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Enough standing around — fire up those catapults! I want Dalaran’s walls to crumble and its inhabitants to be buried under the rubble. Launch the strike!",
+    "koKR": "멍하니 서 있지 말고 투석기를 쏴라! 달라란의 성벽을 무너뜨리고, 인간들을 잔해 속에 파묻어버려!. 포격 개시!"
+  },
+  "RoA_A01_M03_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "We must secure one of our blacksmiths, our troops need to repair and refine their armor and weaponry.",
+    "koKR": "대장간을 하나 확보해야 한다. 병사들의 무기와 갑옷을 수리하고 개량해야 해."
+  },
+  "RoA_A01_M03_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "RET",
+    "unit_name": "Retera",
+    "enUS": "Citizens of Dalaran!",
+    "koKR": "달라란의 시민들이여!"
+  },
+  "RoA_A01_M03_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "RET",
+    "unit_name": "Retera",
+    "enUS": "I come to rescue!",
+    "koKR": "내가 구하러 왔노라!"
+  },
+  "RoA_A01_M03_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Keep patroling the streets, we never know where they spawn next portal, and try to not get killed by the catapult shells.",
+    "koKR": "계속 거리를 순찰하세요. 다음 차원문이 어디에 열릴지 모르니. 투석기 포탄에 목숨을 잃지 않도록 조심하고요."
+  },
+  "RoA_A01_M03_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Captain",
+    "enUS": "Yes, my lady.",
+    "koKR": "예, 마법사님."
+  },
+  "RoA_A01_M03_VO_S006_003": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "You almost startled me!",
+    "koKR": "깜짝 놀랐잖아요!"
+  },
+  "RoA_A01_M03_VO_S006_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "May I be of service, my lady?",
+    "koKR": "제가 도와드릴 일이 있습니까?"
+  },
+  "RoA_A01_M03_VO_S006_005": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Modera’s the name. I am…was the personal assistant to Master Norlan…",
+    "koKR": "모데라라고 해요. 놀란 님의 개인 조수로 일하고… 아니, 일했어요…"
+  },
+  "RoA_A01_M03_VO_S006_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "My condolences.",
+    "koKR": "삼가 조의를 표합니다."
+  },
+  "RoA_A01_M03_VO_S006_007": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Thank you. But we have more pressing matters at hand. The Horde’s artillery is tearing down our defenses…",
+    "koKR": "고마워요. 하지만 지금은 더 급한 일이 있어요. 호드의 공성 병기가 우리 방어선을 무너뜨리고 있거든요…"
+  },
+  "RoA_A01_M03_VO_S006_008": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "And the Kirin Tor wants me to take it down. How?",
+    "koKR": "키린 토는 제게 그걸 파괴하라는 거군요. 어떻게 말입니까?"
+  },
+  "RoA_A01_M03_VO_S006_009": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "This scroll will allow you to take on an appearance of one of their own. Unless you trigger one of their magical sentries, that should be enough to get past their lines.",
+    "koKR": "이 두루마리를 쓰면 놈들 중 하나로 변장할 수 있어요. 저들의 마법 감시망에 걸리지만 않으면, 적진을 통과하기에는 충분할 거예요."
+  },
+  "RoA_A01_M03_VO_S006_010": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Well, let’s hope the enchantment itself is reliable.",
+    "koKR": "그 마법이 제대로 통하기만을 바라야겠군요."
+  },
+  "RoA_A01_M03_VO_S006_011": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Don’t worry, I’ve made it myself.",
+    "koKR": "걱정 말아요. 제가 직접 만들었으니까요."
+  },
+  "RoA_A01_M03_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "GRU",
+    "unit_name": "Grunt",
+    "enUS": "Hey you! Use oil to set up this building on fire, and return to work!",
+    "koKR": "어이, 너! 이 건물에 기름을 끼얹고 불을 지른 다음, 다시 일하러 가라!"
+  },
+  "RoA_A01_M03_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Hm... I could use these oil barrels to set up the diversion....",
+    "koKR": "흠… 이 기름통을 이용하면 놈들의 주의를 돌릴 수 있겠군…"
+  },
+  "RoA_A01_M03_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I must use the scroll. If the orcs notice me like that, I'm dead man.",
+    "koKR": "두루마리를 써야 한다. 이 모습으로 오크들에게 들켰다간 죽은 목숨이야."
+  },
+  "RoA_A01_M03_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I need to set up a diversion before my disguise fades. I’d better hurry, it won’t last a whole day.",
+    "koKR": "변장이 풀리기 전에 교란 작전을 실행해야 한다. 하루 종일 지속되는 마법도 아니니 서둘러야겠군."
+  },
+  "RoA_A01_M03_VO_S007_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I need to avoid any violence, they would surely discover and kill me otherwise.",
+    "koKR": "싸움은 피해야 한다. 그랬다간 정체를 들켜 죽고 말 테니."
+  },
+  "RoA_A01_M03_VO_S007_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "What a cruel sight. Such majestic creatures enslaved by the orcs…",
+    "koKR": "참혹하군. 저토록 위엄 있는 생물들이 오크의 노예가 되다니…"
+  },
+  "RoA_A01_M03_VO_S007_007": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These malevolent apparitions could see through my disguise, I must steer clear of them.",
+    "koKR": "저 사악한 망령들은 내 변장을 꿰뚫어 볼지도 모른다. 가까이 가지 말아야겠어."
+  },
+  "RoA_A01_M03_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "The staff of Magna Aegwynn. How could it have ended up in the hands of thse monsters? I must retrieve it when this senile orc is distracted.",
+    "koKR": "마그나 에이그윈의 지팡이로군. 어쩌다 저 괴물들의 손에 들어간 거지? 저 노망난 오크가 한눈을 팔 때 되찾아야겠어."
+  },
+  "RoA_A01_M03_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These undead are wearing the armor of the Stormwind Knights. What a depravity.",
+    "koKR": "저 언데드들이 스톰윈드 기사들의 갑옷을 입고 있군. 이 무슨 사악한 짓인가."
+  },
+  "RoA_A01_M03_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "These wretched humans are bolstering their defenses, holding even against our relentless bombardment!",
+    "koKR": "약아빠진 인간 놈들! 쉴 새 없이 퍼붓는 포격을 견디면서 방어까지 강화하고 있군!"
+  },
+  "RoA_A01_M03_VO_S010_002": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Lets just throw everything we have at them!",
+    "koKR": "그냥 있는 병력을 전부 쏟아붓자!"
+  },
+  "RoA_A01_M03_VO_S010_003": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "No, you fool! We must break the dam! Once the water levels have fallen, we flank their forces!",
+    "koKR": "안 돼, 멍청아! 댐을 무너뜨려야 한다! 수위가 낮아지면 놈들의 측면을 치는 거다!"
+  },
+  "RoA_A01_M03_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Good, the barrels are ready. I still have some time, so I'd better get rid of those warlocks that maintain the portals...",
+    "koKR": "좋아, 기름통은 준비됐다. 아직 시간이 좀 있으니 차원문을 유지하는 흑마법사들도 처리하는 게 좋겠군…"
+  },
+  "RoA_A01_M03_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "My best strategy would be to place a barrel beneath the catapult, then leave a trail of oil leading to the next one and place another barrel there. That way, I could set them all ablaze in a single attempt.",
+    "koKR": "가장 좋은 방법은 공성 발사대 아래에 기름통을 놓고, 다음 발사대까지 기름 자국을 길게 이어 놓은 다음 거기에도 기름통을 놓는 거야. 그러면 한 번에 전부 불태울 수 있겠지."
+  },
+  "RoA_A01_M03_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These are the portals that orcs use to send troops to the city. If I could dispose of those warlocks discreetly... I need to figure something out.",
+    "koKR": "오크들이 저 차원문으로 병력을 도시 안에 보내고 있군. 흑마법사들을 남몰래 처리할 수만 있다면… 방법을 생각해 봐야겠어."
+  },
+  "RoA_A01_M03_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "What a tragic accident...",
+    "koKR": "참으로 비극적인 사고로군…"
+  },
+  "RoA_A01_M03_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Look! This is a crystal from one of the Cross Island citadels. Find two more and maybe we will be able to restore our arcane guardians.",
+    "koKR": "보게! 십자섬의 요새에서 가져온 수정일세. 두 개만 더 찾으면 비전 수호자들을 복구할 수 있을지도 모르네."
+  },
+  "RoA_A01_M03_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "This one had a burnout at his job.",
+    "koKR": "이 녀석은 일에 너무 열을 올렸군."
+  },
+  "RoA_A01_M03_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That lever… seems like it controls the crane... interesting...",
+    "koKR": "저 지렛대… 기중기를 조종하는 장치 같군… 흥미로운데…"
+  },
+  "RoA_A01_M03_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Orcs are so negligent with workplace safety...",
+    "koKR": "오크들은 작업장 안전에 참 무심하군…"
+  },
+  "RoA_A01_M03_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Good! When you return to the city, activate the Guardians near the Violet Citadel.",
+    "koKR": "잘했네! 도시로 돌아오면 보랏빛 성채 근처의 수호자들을 가동하게."
+  },
+  "RoA_A01_M03_VO_S013_1_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. The orcish artillery has been dealt with as requested…",
+    "koKR": "크라서스 님. 말씀하신 대로 오크의 공성 병기를 처리했습니다…"
+  },
+  "RoA_A01_M03_VO_S013_1_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Good job.",
+    "koKR": "잘했네."
+  },
+  "RoA_A01_M03_VO_S013_2_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. I managed to destroy some of the orcish siege machines…",
+    "koKR": "크라서스 님. 오크의 공성 병기를 일부밖에 파괴하지 못했습니다…"
+  },
+  "RoA_A01_M03_VO_S013_2_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Better than nothing.",
+    "koKR": "아무것도 못 한 것보다는 낫군."
+  },
+  "RoA_A01_M03_VO_S013_3_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. I tried to destroy orcish siege machines, but it was impossible to accomplish this task.",
+    "koKR": "크라서스 님. 오크의 공성 병기를 파괴하려 했지만, 실패하고 말았습니다."
+  },
+  "RoA_A01_M03_VO_S013_3_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Too bad, it means they will continue to damage the city.",
+    "koKR": "안타깝군. 놈들이 계속 도시에 피해를 입히겠어."
+  },
+  "RoA_A01_M03_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Yet another problem has arisen. The orcs have damaged the dam barring the Violet River. Without it, the water levels have fallen…",
+    "koKR": "또 문제가 생겼네. 오크들이 보랏빛 강을 막고 있던 댐을 파손했어. 그 탓에 수위가 낮아졌네…"
+  },
+  "RoA_A01_M03_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "And the orcs can now easily cross the stream and attack our weakest spots with impunity. Damn it! We must repair the dam immediately.",
+    "koKR": "오크들이 손쉽게 개울을 건너면 우리의 취약 지점이 속수무책으로 당하게 될 겁니다. 젠장! 당장 댐을 복구해야 합니다."
+  },
+  "RoA_A01_M03_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Yes, but first, we need to secure our defense perimeter. They can’t reach the inner parts of the city.",
+    "koKR": "그렇지. 하지만 먼저 방어선을 확보해야 하네. 놈들이 도시 안쪽까지 들어오게 해서는 안 되네."
+  },
+  "RoA_A01_M03_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I stand with you.",
+    "koKR": "저도 함께하겠습니다."
+  },
+  "RoA_A01_M03_VO_S015_001": {
+    "type": "VO",
+    "unit_id": "TGO",
+    "unit_name": "Teron Gorefiend",
+    "enUS": "Pathetic mortals, in the end, all shall feel the touch of death’s embrace!",
+    "koKR": "하찮은 필멸자들이여, 결국 모두가 죽음의 품에 안기게 될 것이다!"
+  },
+  "RoA_A01_M03_VO_S015_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "So much carnage…",
+    "koKR": "이토록 많은 이들이 학살당하다니…"
+  },
+  "RoA_A01_M03_VO_S015_003": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "And there’s more to come. Our sentries report the orcs are massing for another attack. Headed by none other than their necromantic undead…",
+    "koKR": "아직 끝이 아닙니다. 경계병들의 보고에 따르면 오크들이 다시 공격하려고 집결 중이라더군요. 바로 그 강령술을 부리는 언데드들을 앞세워서…"
+  },
+  "RoA_A01_M03_VO_S015_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "The ones that ravaged Stratholme and Quel’Thalas…the death knights.",
+    "koKR": "스트라솔름과 쿠엘탈라스를 유린한 자들… 죽음의 기사들이군요."
+  },
+  "RoA_A01_M03_VO_S015_005": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Hmm. Thankfully, my studies have allowed me to design a potent spell that should protect us from their necromantic magic. However, I’ll need protection while invoking it.",
+    "koKR": "흠. 다행히 제 연구 덕분에 놈들의 강령술로부터 우리를 지켜 줄 강력한 주문을 고안했습니다. 다만 주문을 시전하는 동안 저를 지켜 줘야 합니다."
+  },
+  "RoA_A01_M03_VO_S016_001": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Curious…utmost curious. This will require further research.",
+    "koKR": "흥미롭군… 참으로 흥미로워. 더 연구해 볼 필요가 있겠어."
+  },
+  "RoA_A01_M03_VO_S016_002": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "...my dragonhawks are ready. With proper support, they will outmaneuver these dragons.",
+    "koKR": "…내 용매들은 준비가 됐소. 제대로 지원만 해 준다면, 저 용들을 기동력으로 압도할 수 있소."
+  },
+  "RoA_A01_M03_VO_S016_003": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "You want to attack them head on?",
+    "koKR": "놈들을 정면으로 공격하시겠다는 겁니까?"
+  },
+  "RoA_A01_M03_VO_S016_004": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "No. We merely need to capture a few of them and force the rest back.",
+    "koKR": "아닐세. 몇 마리만 사로잡고 나머지는 물러나게 하면 되네."
+  },
+  "RoA_A01_M03_VO_S016_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Capture?!",
+    "koKR": "사로잡는다고요?!"
+  },
+  "RoA_A01_M03_VO_S016_006": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Just so. These leviathans are too powerful a weapon of war. We need to learn more about the magic the orcs use to control them. Otherwise, they might always pose a threat to us. And the best way to do so is to capture and study some of them.",
+    "koKR": "그렇네. 저 거대한 생물들은 전쟁 병기로 쓰기에는 너무나 강력해. 오크들이 무슨 마법으로 저들을 조종하는지 더 알아내야 하네. 그러지 못하면 언제까지고 우리를 위협할 테니. 가장 좋은 방법은 몇 마리를 사로잡아 연구하는 것이지."
+  },
+  "RoA_A01_M03_VO_S016_007": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "I’ll leave that to Khadgar. There’s something strange about these dragons. How can the orcs control such once-majestic creatures? I - We need to learn more about it.",
+    "koKR": "그 일은 카드가에게 맡기겠네. 저 용들에게는 뭔가 이상한 점이 있어. 한때 그토록 위엄을 떨치던 생물들을 오크들이 어떻게 조종하는 거지? 내가… 아니, 우리가 더 알아봐야 하네."
+  },
+  "RoA_A01_M03_VO_S016_008": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Very well then. I wish your dragonhawks favorable winds, prince Kael.",
+    "koKR": "그럼 그렇게 하겠습니다. 용매들에게 순풍이 함께하길 빌겠습니다, 캘타스 왕자님."
+  },
+  "RoA_A01_M03_VO_S016_009": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "Elves don’t need luck, my young friend.",
+    "koKR": "엘프에게 행운은 필요 없다네, 젊은 친구."
+  },
+  "RoA_A01_M03_VO_S017_001": {
+    "type": "VO",
+    "unit_id": "ZTW",
+    "unit_name": "Zuluhed the Whacked",
+    "enUS": "Dragonmaws! Burn them to ashes!",
+    "koKR": "용아귀 부족이여! 저들을 잿더미로 만들어라!"
+  },
+  "RoA_A01_M03_VO_S017_002": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "Warriors! Tear through their ranks, carve a path to victory!",
+    "koKR": "전사들이여! 놈들의 대열을 뚫고 승리로 가는 길을 열어라!"
+  },
+  "RoA_A01_M03_VO_S017_003": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Let none survive! Grind their bones to dust!",
+    "koKR": "한 놈도 살려 두지 마라! 뼈까지 가루로 만들어버려!"
+  },
+  "RoA_A01_M03_VO_S018_001": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "We have all we need. The rest of their air forces are retreating!",
+    "koKR": "필요한 만큼은 확보했네. 나머지 공중 병력이 퇴각하고 있네!"
+  },
+  "RoA_A01_M03_VO_S018_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Khadgar, order the worker to repair the dam, we need it back in order as soon as possible!",
+    "koKR": "카드가, 인부들에게 댐을 수리하라고 지시하게. 최대한 빨리 복구해야 하네!"
+  },
+  "RoA_A01_M03_VO_S019_001": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "Good riddance. It was about time we cleaned the city of this vermin.",
+    "koKR": "속이 다 시원하군. 진작 저 해충들을 도시에서 쓸어 버렸어야 했소."
+  },
+  "RoA_A01_M03_VO_S019_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I wouldn’t celebrate yet. There are still….",
+    "koKR": "아직 기뻐하기는 이릅니다. 저들은 여전히…"
+  },
+  "RoA_A01_M03_VO_S019_003": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Khadgar! Good to see you in one piece, master mage.",
+    "koKR": "카드가! 무사해서 다행입니다."
+  },
+  "RoA_A01_M03_VO_S019_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Likewise, commander. I take it you have secured the lake?",
+    "koKR": "나도 반갑소, 투랄리온. 호수는 확보한 거요?"
+  },
+  "RoA_A01_M03_VO_S019_005": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Nearly. But it will take a while until more of our forces arrive. You’ll have to do with me and the vanguard. Still, I see you’ve taken good care of the city.",
+    "koKR": "거의 다 확보했습니다. 하지만 나머지 병력이 도착하려면 시간이 좀 걸릴 겁니다. 당분간은 나와 선봉대만으로 버텨야 합니다. 그래도 도시를 잘 지켜 내셨군요."
+  },
+  "RoA_A01_M03_VO_S019_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Thank you. The Horde’s offensive has been broken, yet there’s still a significant force beyond the river. It’s only a matter of time before they regroup and renew their assault…",
+    "koKR": "고맙소. 호드의 공세는 꺾었지만, 강 건너에는 아직 상당한 병력이 남아 있소. 놈들이 전열을 가다듬고 다시 공격해 오는 건 시간문제오…"
+  },
+  "RoA_A01_M03_VO_S019_007": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "It seems I’ve arrived just in time. We can’t let them do that. Soldiers, march on!",
+    "koKR": "제가 때마침 잘 도착한 모양이군요. 놈들에게 그럴 기회를 줘선 안 됩니다. 병사들이여, 진격하라!"
+  },
+  "RoA_A01_M03_VO_S020_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Hateful undead! Your presence defiles these lands; I will purge you!",
+    "koKR": "가증스러운 언데드여! 네 존재만으로도 이 땅이 더럽혀진다. 내가 널 정화하겠다!"
+  },
+  "RoA_A01_M03_VO_S020_002": {
+    "type": "VO",
+    "unit_id": "TGO",
+    "unit_name": "Teron Gorefiend",
+    "enUS": "This is not our last fight, paladin!",
+    "koKR": "우리의 싸움은 이걸로 끝이 아니다, 성기사!"
+  },
+  "RoA_A01_M03_VO_S021_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That’s Sir Lothar!",
+    "koKR": "로서 경이오!"
+  },
+  "RoA_A01_M03_VO_S021_002": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "The old man always keeps his word.",
+    "koKR": "저 어르신은 늘 약속을 지키시죠."
+  },
+  "RoA_A01_M03_VO_S021_003": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Good to see you, lads. Like I promised, I’ve brought some friends.",
+    "koKR": "반갑네, 제군들. 약속대로 친구들을 좀 데려왔네."
+  },
+  "RoA_A01_M03_VO_S021_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I am surprised to see so many Gilneans with you, sir. I thought King Greymane had a different strategy in mind…",
+    "koKR": "이렇게 많은 길니아스 병사들을 데려오실 줄은 몰랐습니다, 사령관님. 그레이메인 국왕께서는 다른 전략을 생각하고 계신 줄 알았는데…"
+  },
+  "RoA_A01_M03_VO_S021_005": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Sometimes, strategies have to be adjusted. And not all of us agree with His Majesty and their brilliant mind.",
+    "koKR": "전략도 때로는 바꿔야 하지. 모두가 국왕 폐하의 훌륭하신 생각에 동의하는 건 아니니."
+  },
+  "RoA_A01_M03_VO_S021_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Well said.",
+    "koKR": "옳은 말씀입니다."
+  },
+  "RoA_A01_M03_VO_S021_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "We’ll have time to discuss this later. We have the orcs on the run. It’s time to finish this.",
+    "koKR": "그 이야기는 나중에 해도 늦지 않네. 오크들이 달아나고 있어. 이제 끝장을 낼 때네."
+  },
+  "RoA_A01_M03_VO_S021_008": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Yes, sir!",
+    "koKR": "예, 사령관님!"
+  },
+  "RoA_A01_M03_VO_S021_009": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Draw steel, boys!",
+    "koKR": "제군들, 검을 뽑아라!"
+  },
+  "RoA_A01_M03_VO_S022_001": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "The orcs are retreating. The city is safe. But we must still measure the real cost of life. The level of damage is…considerable. Their dark powers have done their work.",
+    "koKR": "오크들이 퇴각하고 있습니다. 도시는 안전합니다. 하지만 얼마나 많은 목숨을 잃었는지는 아직 헤아려 봐야 합니다. 피해 규모가… 상당하군요. 놈들의 어둠의 힘이 제대로 효력을 발휘한 탓이지요."
+  },
+  "RoA_A01_M03_VO_S022_002": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "We should have slaughtered them all for what they did to my homeland.",
+    "koKR": "내 고국에 저지른 짓을 생각하면, 놈들을 모조리 도륙했어야 했소."
+  },
+  "RoA_A01_M03_VO_S022_003": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "At least we can now learn more of their dominion over the dragons.",
+    "koKR": "적어도 이제 놈들이 어떻게 용들을 지배하는지 더 알아낼 수 있겠군."
+  },
+  "RoA_A01_M03_VO_S022_004": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "My friends. Our city has seen many great calamities and endured all of them. This is no different. We are the Kirin Tor. We will rebuild, we will restore, we will preserve.",
+    "koKR": "동지 여러분. 우리 도시는 숱한 재앙을 겪었지만 모두 이겨 냈소. 이번에도 다르지 않소. 우리는 키린 토요. 우리는 다시 세우고, 복원하며, 지켜낼 것이오."
+  },
+  "RoA_A01_M03_VO_S022_005": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "But there’s another matter to attend. Master Norlan’s passing has left his seat on the council vacant. And I believe young Master Modera to be a proper choice for his replacement.",
+    "koKR": "하지만 처리해야 할 일이 하나 더 있소. 놀란이 세상을 떠나 의회의 한 자리가 비었소. 젊은 마법사 모데라가 그 자리를 잇기에 적임자라고 생각하오."
+  },
+  "RoA_A01_M03_VO_S022_006": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Me? I am deeply honored.",
+    "koKR": "제가요? 과분한 영광입니다."
+  },
+  "RoA_A01_M03_VO_S022_007": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "A wise choice.",
+    "koKR": "현명한 선택이십니다."
+  },
+  "RoA_A01_M03_VO_S023_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "All your forces are accounted for?",
+    "koKR": "병력은 모두 확인했나?"
+  },
+  "RoA_A01_M03_VO_S023_002": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Yes, sir. Lordamere has been fully secured and Lordaeron is better manned than before the siege. And more reinforcements are on their way to Dalaran.",
+    "koKR": "예, 사령관님. 로다미어는 완전히 확보했고, 로데론에는 포위 이전보다 더 많은 병력이 주둔하고 있습니다. 달라란으로도 추가 지원군이 오고 있습니다."
+  },
+  "RoA_A01_M03_VO_S023_003": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "You’ve done well.",
+    "koKR": "잘해 주었네."
+  },
+  "RoA_A01_M03_VO_S023_004": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "There were moments I thought I’d fail…",
+    "koKR": "실패할 것 같았던 순간도 있었습니다…"
+  },
+  "RoA_A01_M03_VO_S023_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Have faith. You need to trust yourself. Just as we trust in you. I never doubted you, lad.",
+    "koKR": "믿음을 갖게. 우리가 자네를 믿듯이, 자네도 스스로를 믿어야 하네. 난 한 번도 자네를 의심한 적이 없네."
+  },
+  "RoA_A01_M03_VO_S023_006": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Thank you, sir. What now?",
+    "koKR": "감사합니다, 사령관님. 이제 어떻게 하시겠습니까?"
+  },
+  "RoA_A01_M03_VO_S023_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "If this region is to be fully safe, we need to restore our control over the southern coasts. Zul’Dare must fall. I’ll take my vanguard and march south on Hillsbrad. You and your forces will remain here and protect our northern flank.",
+    "koKR": "이 지역을 완전히 안전하게 지키려면 남쪽 해안을 다시 장악해야 하네. 줄데어를 함락시켜야 해. 나는 선봉대를 이끌고 남쪽 언덕마루로 진군하겠네. 자네와 자네 병력은 이곳에 남아 우리 북쪽 측면을 지켜 주게."
+  },
+  "RoA_A01_M03_VO_S023_008": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Understood. Light be with you, my lord.",
+    "koKR": "알겠습니다. 빛이 함께하길, 사령관님."
+  }
+}
